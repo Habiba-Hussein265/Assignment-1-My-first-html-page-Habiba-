@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My HTML Page</title>
+</head>
+<body>
+    <h1> Welcome to Somakodi School</h1>
+    <p>Somakodi school is a school where students are taught on how to use the coding languages . In Somakodi school currently we are majoring on Hyper Text Mark Up Language (HTML )and the Cascading Style Sheet (CSS). Classes  in Somakodi School starts at 9:00 in the morning and ends at 11:00. At Somakodi School we also have afternoon Stand ups from 2:00 to 4:00 . 
+       
+    That is the basic information about Somakodi School which one should know . 
+WELCOME TO SOMAKODI SCHOOL </p>
+    
+</body>
+</html>
